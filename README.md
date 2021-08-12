@@ -35,7 +35,7 @@ Set the view delegate to get feedback when image changes through..
     func idView(_ idView: IDView, wasTappedOn face: IDView.Face)
 ```
 
-# Properties
+# Properties & Functions
 - get the current face..
 ```swift
     idView.face
